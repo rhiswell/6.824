@@ -1,0 +1,15 @@
+
+==> Part I
+ok  	mapreduce	5.138s
+
+==> Part II
+Passed test
+
+==> Part III
+ok  	mapreduce	7.323s
+
+==> Part IV
+ok  	mapreduce	7.983s
+
+==> Part V (inverted index)
+Passed test
